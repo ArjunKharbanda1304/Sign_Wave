@@ -1,23 +1,16 @@
-SignWave - Real-Time Sign Language Detection
+**SignWave - Real-Time Sign Language Detection**
 
-Overview
-
+**Overview**
 SignWave is an advanced real-time sign language detection system designed to bridge the communication gap between individuals who use sign language and those who do not. The system leverages deep learning and computer vision to recognize hand gestures and convert them into text and speech.
 
-Features
-
+**Features**
 Real-Time Sign Recognition: Detects and translates hand signs into text and speech instantly.
-
 Multi-Language Support: Converts recognized signs into different languages for global accessibility.
-
 Emotion Detection: Enhances communication by analyzing and conveying emotional context.
-
 Interactive Learning Module: Provides quizzes and milestones to help users learn sign language efficiently.
-
 User-Friendly Interface: Designed with accessibility and ease of use in mind.
 
-Technology Stack
-
+**Technology Stack**
 Deep Learning: YOLO (You Only Look Once) for real-time hand sign detection.
 
 Computer Vision: OpenCV for image processing and hand tracking.
@@ -30,52 +23,11 @@ Backend: Flask/Django for API and model integration.
 
 Frontend: React.js for an interactive UI.
 
-Installation & Setup
 
-Prerequisites
-
-Ensure you have the following installed:
-
-Python 3.8+
-
-Pip
-
-Virtual Environment (optional but recommended)
-
-Clone the Repository
-
-git clone https://github.com/arjunkharbanda/SignWave.git
-cd SignWave
-
-Install Dependencies
-
-pip install -r requirements.txt
-
-Run the Application
-
-python app.py
-
-Dataset & Model
-
+**Dataset & Model**
 The system is trained on a custom dataset containing labeled images for various hand signs. The model is fine-tuned for high accuracy and optimized for real-time performance.
 
-Contribution
 
-We welcome contributions! To contribute:
-
-Fork the repository.
-
-Create a new branch (feature-branch).
-
-Commit your changes.
-
-Submit a pull request.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
-
+**Contact**
 For inquiries, reach out at arjun.kharbanda1304@gmail.com.
 
