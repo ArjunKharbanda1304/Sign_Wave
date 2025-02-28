@@ -27,6 +27,8 @@ Frontend: React.js for an interactive UI.
 **Dataset & Model**
 The system is trained on a custom dataset containing labeled images for various hand signs. The model is fine-tuned for high accuracy and optimized for real-time performance.
 
+https://raw.githubusercontent.com/ArjunKharbanda1304/Sign_Wave/refs/heads/main/Screenshot%202025-03-01%20000936.png
+
 **Contact**
 For inquiries, reach out at arjun.kharbanda1304@gmail.com.
 
